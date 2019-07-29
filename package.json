@@ -1,0 +1,26 @@
+{
+  "name": "dialogflow-bot-map",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piush-hexaware/chatbotMaps.git"
+  },
+  "author": "",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "google-auth-library": "^4.1.0",
+    "request": "^2.88.0",
+    "googleapis": "^40.0.0"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Piush-hexaware/chatbotMaps/issues"
+  },
+  "homepage": "https://github.com/Piush-hexaware/chatbotMaps#readme"
+}

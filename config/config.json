@@ -1,0 +1,19 @@
+{	
+	"authorizeEndpoint":"https://dev-pv99xlrf.auth0.com/authorize",	
+	"tokenEndpoint":"https://dev-pv99xlrf.auth0.com/oauth/token",	
+	"redirect_uri":"https://oauth-redirect.googleusercontent.com/r/locate-2dd42",		
+	"masterScope" : "Local",	
+	"issuer":"https://dev-pv99xlrf.auth0.com/",
+	"userInfo":"https://dev-pv99xlrf.auth0.com/userinfo",
+	"grant_type":"authorization_code",
+	"response_type":"code",	
+	"state":12345,		
+	"connection":"OegEsBotNew",
+	"reloginDuration":10,
+    "scope":"openid profile email offline_access piyush",
+    "client_id":"YJo82Kwe9DnJ5tN4B8oofxv5isfghMdr",
+    "client_secret":"2TZyIOnl9AFF0HpJru0SpaZXbviUz3ERuwb6Rgvvzndt8SzQIGLnkXVaGdZYkEY7",
+    "audience":"Resume"
+    
+    
+}
